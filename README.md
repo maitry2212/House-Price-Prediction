@@ -25,8 +25,8 @@ Some key features used from the dataset:
 
 ## ⚙️ How to Run
 
-##  Clone this repository
-```bash
+```
+Clone this repository
 git clone https://github.com/yourusername/house-price-prediction.git
 cd house-price-prediction
 
