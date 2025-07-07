@@ -25,7 +25,7 @@ Some key features used from the dataset:
 
 ## ⚙️ How to Run
 
-## 1️⃣ Clone this repository
+##  Clone this repository
 ```bash
 git clone https://github.com/yourusername/house-price-prediction.git
 cd house-price-prediction
@@ -33,7 +33,7 @@ cd house-price-prediction
 Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-3️⃣ Run the notebook
+ Run the notebook
 Open House_Price_Prediction.ipynb in Jupyter or upload it to Google Colab.
 
 📈 Results
